@@ -3,6 +3,7 @@ bleach==3.0.2
 cycler==0.10.0
 decorator==4.3.0
 defusedxml==0.5.0
+descartes==1.1.0
 entrypoints==0.2.3
 et-xmlfile==1.0.1
 geopandas==0.4.1
